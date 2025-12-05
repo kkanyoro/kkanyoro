@@ -6,6 +6,12 @@ CS student | Full-stack Dev | Smart Contract Dev
 
 ---
 
+## Spotify Playing 🎧
+
+[![Spotify](https://spotify-now-playing-green.vercel.app/api/spotify)](https://open.spotify.com/user/31zngziebbq5ypuxnlczufxdcz7u)
+
+---
+
 ## Tech Stack
 
 #### Languages & Frameworks
@@ -51,7 +57,7 @@ CS student | Full-stack Dev | Smart Contract Dev
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanyoroBebo&show_icons=true&theme=tokyonight&hide_border=true" alt="Kanyoro's GitHub stats" height="180em"/>
+  <img src="https://github-readme-stats-kanyorobebo.vercel.app/api?username=KanyoroBebo&show_icons=true&theme=tokyonight&hide_border=true" alt="Kanyoro's GitHub stats" height="180em"/>
   <img src="https://streak-stats.vercel.app?user=KanyoroBebo&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180em"/>
 </p>
 
@@ -253,10 +259,4 @@ CS student | Full-stack Dev | Smart Contract Dev
 ---
 
 ### Contact Me
-<a href="mailto:kevinkanyoro06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email"/>
-</a> <br/>
-<a href="https://www.linkedin.com/in/kevin-kanyoro-815601305/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-</a> <br/>
-Links in Profile
+![Static Badge](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail&logoColor=%23EA4335&logoSize=auto&label=kevinkanyoro06%40gmail.com&color=%23EA4335)
