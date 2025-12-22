@@ -53,20 +53,20 @@ CS student | Full-stack Dev | Smart Contract Dev
 
 ### GitHub Stats & Contributions
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=KanyoroBebo&label=Profile%20views&color=0e75b6&style=flat" alt="Kevin Kanyoro" /> 
+  <img src="https://komarev.com/ghpvc/?username=kkanyoro&label=Profile%20views&color=0e75b6&style=flat" alt="Kevin Kanyoro" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-kanyorobebo.vercel.app/api?username=KanyoroBebo&show_icons=true&theme=tokyonight&hide_border=true" alt="Kanyoro's GitHub stats" height="180em"/>
-  <img src="https://streak-stats.vercel.app?user=KanyoroBebo&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180em"/>
+  <img src="https://github-readme-stats-kanyorobebo.vercel.app/api?username=kkanyoro&show_icons=true&theme=tokyonight&hide_border=true" alt="Kanyoro's GitHub stats" height="180em"/>
+  <img src="https://streak-stats.vercel.app?user=kkanyoro&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanyoroBebo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkanyoro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KanyoroBebo/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/kkanyoro/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---
