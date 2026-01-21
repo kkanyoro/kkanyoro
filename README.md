@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=007BFF&center=true&vCenter=true&width=600&lines=Hi+👋;I'm+Kevin+Kanyoro;Computer+Science+Student;Full-Stack+Developer;Learning+Blockchain)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=007BFF&center=true&vCenter=true&width=600&lines=Hi;I'm+Kevin+Kanyoro;Computer+Science+Student;Full-Stack+Developer;Learning+Blockchain)
 
 ---
 
