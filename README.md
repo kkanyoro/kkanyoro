@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
 </p>
 
-#### Tools & Platforms
+<h4 align="center">Tools & Platforms</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Foundry-%23CE412B?style=for-the-badge&logo=rust&logoColor=white" alt="Foundry"/>
