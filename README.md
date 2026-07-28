@@ -6,12 +6,6 @@
 
 ### CS student | Full-stack Dev | Smart Contract Dev 
 
----
-
-<h2>Spotify Playing 🎧</h2>
-
-[![Spotify](https://spotify-now-playing-green.vercel.app/api/spotify)](https://open.spotify.com/user/31zngziebbq5ypuxnlczufxdcz7u)
-
 </div>
 
 ---
@@ -72,10 +66,6 @@
 <p align="center">
   <img src="https://github-readme-stats-kanyorobebo.vercel.app/api?username=kkanyoro&show_icons=true&theme=tokyonight&hide_border=true" alt="Kanyoro's GitHub stats" height="180em"/>
   <img src="https://streak-stats.vercel.app?user=kkanyoro&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkanyoro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
 </p>
 
 <p align="center">
